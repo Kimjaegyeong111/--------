@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "민원 나침반 (데이터 기반 정책 연관성 분석)",
+      "techStackFront": "React.js (데이터 시각화)",
+      "techStackBack": "Python (데이터 처리), Chart.js",
+      "description": "정부 공공 자료를 수집하여 시계열 분석 및 정책 연관성 비교를 수행한 대시보드입니다.",
+      "role": "Python을 활용한 데이터 수집 및 정제 로직 설계, 그리고 React.js 기반 분석 결과 시각화를 담당하여 논리적인 분석 능력을 키웠습니다.",
+      "githubLink": "https://github.com/Kimjaegyeong111/-"
+    },
+    {
+      "id": "project2",
+      "title": "웹디자인 기반 DB 연동형 쇼핑몰 시스템 구현",
+      "techStackFront": "HTML/CSS, JavaScript",
+      "techStackBack": "JSP / DB: MySQL",
+      "description": "웹디자인기능사 역량을 활용하여 UI/UX 설계를 완료하고, DB 연동을 통한 상품/회원/배송 관리 시스템을 구현했습니다.",
+      "role": "UI/UX 설계 및 Front-end 구현, MySQL DB 연동을 통한 실시간 재고/주문 관리 시스템 구축을 담당했습니다.",
+      "githubLink": "https://github.com/Kimjaegyeong111/-1"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "국립도서관 국가근로 (2년)",
+      "detail": "대규모 공공 데이터 및 문서 관리 보조 경험. 높은 책임감과 정확성이 요구되는 환경에서 성실성을 입증했습니다."
+    },
+    {
+      "title": "도제 경력 (2년)",
+      "detail": "실제 산업 현장에서의 업무 프로세스를 이해하고, 기술을 적용하는 실무 적응력을 키웠습니다. (정식 경력은 아니지만 실무 간접 경험으로 강조)"
+    },
+    {
+      "title": "인하공업전문대학 컴퓨터정보과 (3년제) 졸업 예정",
+      "detail": "컴퓨터 시스템과 정보 처리에 대한 체계적인 지식 습득."
+    }
+  ]
+}
