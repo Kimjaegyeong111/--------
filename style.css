@@ -296,3 +296,28 @@ footer {
 .intro-links .btn-primary {
     margin-left: 15px; 
 }
+.resume-section {
+    padding: 40px 0;
+    border-bottom: 1px solid #ddd;
+}
+.resume-section:last-child {
+    border-bottom: none;
+}
+.resume-section h3 {
+    text-align: left;
+    margin-bottom: 20px;
+    color: var(--color-accent); 
+    border-left: 5px solid var(--color-accent);
+    padding-left: 15px;
+    font-size: 1.8em;
+}
+.resume-section p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+.back-to-home {
+    text-align: center;
+    padding-top: 50px;
+}
